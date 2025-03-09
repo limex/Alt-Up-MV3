@@ -9,7 +9,7 @@ His original Extension is here, already **not** available for install: https://c
 
 TBDL
 
-## Local Install
+## or Local Install
 
 * copy the `Alt-Up-MV3.zip` to a local folder
 * Unzip

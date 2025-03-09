@@ -1,0 +1,32 @@
+{
+	"update_url": "https://clients2.google.com/service/update2/crx",
+	"name": "Alt+Up+MV3",
+	"description": "Go to parent address. Use Alt+Up to move up one level like in many file browsers. Now with Chrome MV3 support.",
+	"version": "3.0.1",
+	"author": "Daniel Forssten, Günther Bosch",
+	"manifest_version": 3,
+	"minimum_chrome_version": "88",
+	"permissions": ["tabs"],
+	"icons": {
+		"48": "images/icon48.png",
+		"128": "images/icon128.png"
+	},
+	"background": {
+		"service_worker": "background.js"
+	},
+	"commands": {
+		"up:1": {
+			"suggested_key": {
+				"default": "Alt+Up",
+				"mac": "Command+Up"
+			},
+			"description": "Go up one level"
+		},
+		"up:-1": {
+			"description": "Go up to domain root level"
+		},
+		"up:-1:path": {
+			"description": "Go up to subdomain root level"
+		}
+	}
+}

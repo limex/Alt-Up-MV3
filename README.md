@@ -21,3 +21,5 @@ TBDL
 * Find the Alt+Up Extension
 * Set the Shortcuts for the 3 Actions.
 
+# Privacy
+The extension stores no personal data at all. period.

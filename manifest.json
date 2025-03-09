@@ -1,7 +1,7 @@
 {
 	"update_url": "https://clients2.google.com/service/update2/crx",
-	"name": "Alt+Up+MV3",
-	"description": "Go to parent address. Use Alt+Up to move up one level like in many file browsers. Now with Chrome MV3 support.",
+	"name": "Alt+Up MV3",
+	"description": "Go to parent address. Use Alt+Up to move up one level like in many file browsers.",
 	"version": "3.0.1",
 	"author": "Daniel Forssten, Günther Bosch",
 	"manifest_version": 3,

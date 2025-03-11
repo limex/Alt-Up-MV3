@@ -7,7 +7,7 @@ His original Extension is here, already **not** available for install: https://c
 
 ## Chrome Marketplace
 
-[Alt Up MV3](https://chromewebstore.google.com/detail/openswitchmapslimexv3/ahkklpcjhdbcmfkikkifnaonfakmeiga)
+[Alt Up MV3](https://chromewebstore.google.com/detail/alt+up+mv3/njjahmbncifndalobiongoomigmenoda)
 
 ## or Local Install
 
